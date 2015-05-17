@@ -1,0 +1,13 @@
+--- !ruby/object:Hangman
+guesses: 5
+letter_board:
+- _
+- a
+- _
+- _
+- _
+- _
+- _
+- d
+game_over: false
+word: hawkweed
